@@ -1,3 +1,3 @@
 <?
-$sSectionName="тест";
+$sSectionName="тест1";
 ?>
